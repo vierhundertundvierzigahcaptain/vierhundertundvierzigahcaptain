@@ -38,6 +38,6 @@
 ## My Stats  
 <br/>  
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vierhundertundvierzigahcaptain&show_icons=true&locale=en&layout=compact" alt="vierhundertundvierzigahcaptain" /></div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 <br/>  
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vierhundertundvierzigahcaptain&show_icons=true&locale=en" alt="vierhundertundvierzigahcaptain" /></div>
