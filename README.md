@@ -47,6 +47,6 @@
 ## My Stats  
 <br/>  
 
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vierhundertundvierzigahcaptain&theme=dracula&show_icons=true&locale=en" alt="vierhundertundvierzigahcaptain" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vierhundertundvierzigahcaptain&theme=dark&show_icons=true&locale=en" alt="vierhundertundvierzigahcaptain" /></div>
 <br/>  
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vierhundertundvierzigahcaptain&theme=dracula&show_icons=true&locale=en" alt="vierhundertundvierzigahcaptain" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vierhundertundvierzigahcaptain&theme=dark&show_icons=true&locale=en" alt="vierhundertundvierzigahcaptain"  /></div>
